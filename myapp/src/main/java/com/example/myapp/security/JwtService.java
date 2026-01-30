@@ -1,7 +1,4 @@
-package com.example.myapp.repo.security;
-
-public class jwtService {
-    package com.example.myapp.security;
+package com.example.myapp.security;
 
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
@@ -55,4 +52,4 @@ public class JwtService {
     }
 }
 
-}
+
